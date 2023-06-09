@@ -1,0 +1,148 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+header{
+    width: 100%;
+    height: 15%;
+    border: 2px solid black;
+}
+.navbar{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar button{
+    width: 5%;
+    height: 30%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: #fff;
+}
+.navbar img{
+    width: 6% ;
+    height: 80%;
+    border: 2px solid black;
+}
+.grids{
+    width: 100%;
+    height: 70%;
+    border: 2px solid black;
+}
+.topGrid{
+    width: 100%;
+    height: 50%;
+    border: 2px solid black;
+    display: flex;
+}
+.grid1{
+    width: 50%;
+    height: 51%;
+    border: 2px solid black;
+}
+.gridnav{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.gridinside1{
+    width:50%;
+    height: 100%;
+    border: 2px solid white;
+}
+
+.gridinside2{
+    width:50%;
+    height: 100%;
+    border: 2px solid white;
+}
+.gridinside3{
+    width:50%;
+    height: 100%;
+    border: 2px solid white;
+    object-fit: cover;
+}
+.gridinside4{
+    width:50%;
+    height: 100%;
+    border: 2px solid white;
+}
+.grid2{
+    width:25% ;
+    height: 100%;
+    border: 2px solid white;
+}
+.grid3{
+    width:25% ;
+    height: 100%;
+    border: 2px solid white;
+}
+
+.downGrid{
+    width: 100%;
+    height: 50%;
+    border: 2px solid black;
+    display: flex;
+}
+.grid4{
+    width:33.3% ;
+    height: 100%;
+    border: 2px solid white;
+}
+.grid5{
+    width: 33.3%;
+    height: 100%;
+    border: 2px solid white;
+}
+.grid6{
+    width: 33.3%;
+    height: 100%;
+    border: 2px solid white;
+}
+.gridinside1 img{
+    width: 100%;
+    height: 100%;
+}
+.gridinside2 img{
+    width: 100%;
+    height: 100%;
+}
+.gridinside3 img{
+    width: 100%;
+    height: 100%;
+}
+.gridinside4 img{
+    width: 100%;
+    height: 100%;
+}
+.grid2 img{
+    width: 100%;
+    height: 100%;
+}
+.grid3 img{
+    width: 100%;
+    height: 100%;
+}
+.grid4 img{
+    width: 100%;
+    height: 100%;
+}
+.grid5 img{
+    width: 100%;
+    height: 100%;
+}
+.grid6 img{
+    width: 100%;
+    height: 100%;
+}
+
